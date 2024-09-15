@@ -1,0 +1,10 @@
+1. Исправлен файл important_data_for_ai_module_2.txt 
+1
+2
+3
+4
+5
+
+2. Изменены права доступа на файл ai_module_2.sh
+chmod 777 ai_module_2.sh
+для запуска (Изначально выдавало ошибку Permission denied)
